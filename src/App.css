@@ -1,0 +1,51 @@
+
+
+.add_btn{
+  text-align: right;
+}
+
+.mt-5{
+  overflow: auto;
+  background-color: grey;
+}
+.container-fluid h1{
+  text-align: center;
+  justify-content: center;
+  justify-items: center;
+  margin-left: 250px;
+  color: white;
+}
+tbody td{
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  font-style: oblique;
+}
+thead th{
+  font-weight: bold;
+  font-size: 20px;
+}
+.container-fluid{
+  background-color: darkgreen;
+}
+.left_view h3{
+  font-size: 21px;
+
+}
+
+.left_view p{
+  font-weight: 600;
+}
+
+.left_view span{
+  font-weight: 400px;
+  
+}
+
+.right_view p{
+  font-weight: 600;
+}
+
+.right_view span{
+  font-weight: 400;
+}
